@@ -1,0 +1,22 @@
+body {
+    background-color: linen;
+}
+
+img {
+    width: 480px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.title {
+    color: maroon;
+    font-family: Helvetica;
+    margin-left: 40px;    
+}
+
+.text {
+    color: maroon;
+    font-family: Arial;
+    margin-left: 40px;
+}
